@@ -4,3 +4,6 @@ We created a git repo on desktop called Git_Trial
 
 We added one file inside caled file1.txt
 Git automatically detected the changes
+We commit this changes into local repository
+
+2 new files are created and committed to the GitHub Desktop
