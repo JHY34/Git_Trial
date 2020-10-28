@@ -7,3 +7,5 @@ Git automatically detected the changes
 We commit this changes into local repository
 
 2 new files are created and committed to the GitHub Desktop
+
+I am some other changes over here.
