@@ -1,1 +1,6 @@
 This is the day 1 of Git Lectures 
+
+We created a git repo on desktop called Git_Trial
+
+We added one file inside caled file1.txt
+Git automatically detected the changes
